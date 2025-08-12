@@ -8,7 +8,7 @@ Me apasiona resolver problemas mediante soluciones funcionales y seguir ampliand
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Lenguajes y Tecnologias
 
 <img 
     align="left" 
