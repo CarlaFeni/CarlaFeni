@@ -87,7 +87,7 @@ Me apasiona resolver problemas mediante soluciones funcionales y seguir ampliand
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estadísticas
 
 <p>
 
