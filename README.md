@@ -1,6 +1,6 @@
  # 👩🏻‍💻 Carla Fenimam
 
-**`Desarrolladora FullStack`**
+**`Backend & Mobile Developer`**
 
 Hola, soy Carla, tengo 24 años y formación en desarrollo de aplicaciones multiplataforma.
 Cuento con experiencia práctica en desarrollo backend, bases de datos y consumo de APIs, adquirida tanto en proyectos personales como en entornos profesionales.
