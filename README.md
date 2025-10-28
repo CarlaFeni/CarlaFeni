@@ -27,14 +27,6 @@ Me apasiona seguir aprendiendo nuevas tecnologías y ofreciendo soluciones funci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" 
 />
-<img 
-    align="left" 
-    alt="ERP"
-    title="ERP" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/database/database-plain.svg" 
-/>
 
 <img 
     align="left" 
