@@ -1,10 +1,11 @@
- # 👩🏻‍💻 Carla Fenimam
+# 👩🏻‍💻 Carla Feniman
 
-**`Backend & Mobile Developer`**
+**`Profesional IT & Soporte Técnico | Full Stack Developer`**
 
-Hola, soy Carla, tengo 24 años y formación en desarrollo de aplicaciones multiplataforma.
-Cuento con experiencia práctica en desarrollo backend, bases de datos y consumo de APIs, adquirida tanto en proyectos personales como en entornos profesionales.
-Me apasiona resolver problemas mediante soluciones funcionales y seguir ampliando mis conocimientos en nuevas tecnologías.
+Hola, soy Carla, tengo 24 años y formación en **Desarrollo de Aplicaciones Multiplataforma**.  
+Cuento con experiencia práctica en **Full Stack, bases de datos, consumo de APIs y optimización de la experiencia de usuario**, adquirida tanto en proyectos personales como en entornos profesionales.  
+Me interesa el **soporte técnico, la implementación de sistemas ERP y la atención al cliente**, aplicando mis conocimientos para resolver problemas y mejorar procesos.  
+Me apasiona seguir aprendiendo nuevas tecnologías y ofreciendo soluciones funcionales que faciliten la experiencia de los usuarios.
 
 ---
 
