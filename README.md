@@ -1,11 +1,14 @@
 # 👩🏻‍💻 Carla Feniman
 
-**`Profesional IT & Soporte Técnico | Full Stack Developer`**
+**`Consultora de Integración de Software | Desarrolladora de Software`**
 
-Hola, soy Carla, tengo 24 años y formación en **Desarrollo de Aplicaciones Multiplataforma**.  
-Cuento con experiencia práctica en **Full Stack, bases de datos, consumo de APIs y optimización de la experiencia de usuario**, adquirida tanto en proyectos personales como en entornos profesionales.  
-Me interesa el **soporte técnico, la implementación de sistemas ERP y la atención al cliente**, aplicando mis conocimientos para resolver problemas y mejorar procesos.  
-Me apasiona seguir aprendiendo nuevas tecnologías y ofreciendo soluciones funcionales que faciliten la experiencia de los usuarios.
+Hola, soy Carla, profesional de Tecnologías de la Información con formación en Desarrollo de Aplicaciones Multiplataforma y experiencia en integración de sistemas, transformación de datos y soporte técnico.
+
+Actualmente trabajo en integración de software y sistemas, participando en procesos de transformación de datos de facturación electrónica entre diferentes formatos empresariales, como XML, JSON, CSV e IDOC. También cuento con experiencia en resolución de incidencias, validación de procesos y coordinación con clientes y equipos técnicos.
+
+Tengo conocimientos en Python, Java, bases de datos SQL y NoSQL, sistemas ERP y entornos cloud (AWS). Me apasiona la tecnología, la automatización y la optimización de procesos, así como desarrollar soluciones eficientes que faciliten la comunicación entre sistemas y respondan a las necesidades del negocio.
+
+Me motiva seguir aprendiendo y creciendo profesionalmente en el ámbito de la integración de software y el desarrollo tecnológico.
 
 ---
 
